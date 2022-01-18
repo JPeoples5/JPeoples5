@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Jeremiah Peoples
 - 👀 I’m interested in Developer Advocacy
 - 🌱 I’m currently learning DSA 
+- YouTube Video: [My Career In 60 Seconds](https://youtu.be/5UshG26Xl2M)
+
 
 
 ![IM](https://img.youtube.com/vi/5UshG26Xl2M/0.jpg)
-YouTube Video: [My Career In 60 Seconds](https://youtu.be/5UshG26Xl2M)
 
 
 <!---
