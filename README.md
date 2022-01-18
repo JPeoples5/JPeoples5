@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremiah Peoples
-- 👀 I’m interested in Developer Advocacy / Relations
+- 👀 I’m interested in Developer Advocacy
 - 🌱 I’m currently learning DSA 
 
 
