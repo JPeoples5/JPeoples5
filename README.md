@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremiah Peoples
-- 👀 I’m interested in Developer Advocacy [Portfolio](https://github.com/JPeoples5/Developer-Advocate)
+- 👀 I’m interested in Developer Advocacy [(Portfolio Repo)](https://github.com/JPeoples5/Developer-Advocate)
 - 🌱 I’m currently learning DSA 
 - YouTube Video: [My Career In 60 Seconds](https://youtu.be/5UshG26Xl2M)
 
