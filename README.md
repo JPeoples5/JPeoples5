@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jeremiah Peoples
+- My professional [Github](https://github.com/peoplesj) account
 - 👀 I’m interested in Developer Advocacy[ (Advocacy Portfolio)](https://drive.google.com/drive/folders/1arG7lTYjplwm6lJ5zTL8obBRxZE5dy8G?usp=sharing)
 - YouTube Video: [My Career In 60 Seconds](https://youtu.be/5UshG26Xl2M)
 
