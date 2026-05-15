@@ -1,14 +1,1 @@
-- 👋 Hi, I’m Jeremiah Peoples
-- My professional [Github](https://github.com/peoplesj) account
-- 👀 I’m interested in Developer Advocacy[ (Advocacy Portfolio)](https://drive.google.com/drive/folders/1arG7lTYjplwm6lJ5zTL8obBRxZE5dy8G?usp=sharing)
-- YouTube Video: [My Career In 60 Seconds](https://youtu.be/5UshG26Xl2M)
-
-
-
-![IM](https://img.youtube.com/vi/5UshG26Xl2M/0.jpg)
-
-
-<!---
-JPeoples5/JPeoples5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m [Jeremiah Peoples](https://www.google.com/search?q=jeremiah+peoples&rlz=1C5GCCM_enUS1160US1160&oq=jeremiah+peoples&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD0yBggCEEUYPTIGCAMQRRg90gEIMTgwM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8&sei=8jAHasrxAe-kqtsP7ePO0QU)
